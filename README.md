@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Radek and I'm an aspiring backend developer. Currently I'm working on a mobile app for speciality coffee enthusiasts using Java Spring Boot and React Native.<br>I spend most of my time programming with huge focus on Java, but I'm also very interested in mobile technologies.
+My name is Radek and I'm an aspiring fullstack developer. My main stack as for now is Java + React (I use it professionally and for Uni projects) but I'm open to learn new technologies and I really enjoy it so in my free time I'm learning Go. <br>I spend most of my time programming with huge focus on Java, but I'm also very passionate in mobile technologies.
 
 
 ## 🌐 Socials:
